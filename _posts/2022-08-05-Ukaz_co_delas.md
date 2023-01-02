@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ukaž co děláš
 autor: Matyáš Vaňhát
 date: 2022-08-05 12:00
