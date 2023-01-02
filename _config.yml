@@ -21,7 +21,7 @@ timezone: Europe/Prague
 
 title: Matyáš Vaňhát                          # the main title
 
-tagline: Knihy a poznámky   # it will display as the sub-title
+tagline: Knihy a projekty   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Knihy a poznámky
