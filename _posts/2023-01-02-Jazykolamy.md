@@ -1,7 +1,7 @@
 ---
 title: Jazykolam
 autor: Matyáš Vaňhát
-date: 2022-08-05 12:00
+date: 2023-01-02 16:00
 categories: [Jazykolamy]
 tags: [čeština]
 toc: true
