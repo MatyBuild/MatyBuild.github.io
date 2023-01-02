@@ -140,7 +140,7 @@ Toto pravidlo můžeme využít všude. I v učení - „Látce rozumíte bezpe�
 
 # 6. Uč, co umíš
 
-Vyučováním druhých vvači práci činí hodnotnější. Učíte-li někoho vaši práci, ve skutečnosti prohlubujete zájem o své produkty.
+Vyučováním druhých vaší práci činí hodnotnější. Učíte-li někoho vaši práci, ve skutečnosti prohlubujete zájem o své produkty.
 
 Výhodou je, že když sdílíte své znalosti a vaši práci s ostatními lidmi, na oplátku se něčemu sami přiučíte.  
 
