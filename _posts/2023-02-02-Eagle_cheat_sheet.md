@@ -9,7 +9,7 @@ img_path: /img/eagle/
 ---
 
 
->🔗 Dělat vše ve vrstvě 16
+>Dělat vše ve vrstvě 16
 {: .prompt-tip }
 
 1. View - odškrtat dolní políčka
