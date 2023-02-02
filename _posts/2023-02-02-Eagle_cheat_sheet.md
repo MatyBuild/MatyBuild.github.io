@@ -10,19 +10,19 @@ img_path: /img/eagle/
 
 
 >Dělat vše ve vrstvě 16
-{: .prompt-tip }
+{: .prompt-warning }
 
 1. View - odškrtat dolní políčka
     
-    ![Desktop](Untitled6.png)
+    ![Desktop](Untitled6.png){: width=50% height=50% .w-75 .normal}
     
 2. View - Grid → mm, ale defaultní hodnoty
     
-    ![Desktop](Untitled1.png)
+    ![Desktop](Untitled1.png){: width=50% height=50% .w-75 .normal}
     
 3. Odpory, kondenzátory a cívky hledat v **rcl →** používat evropské značky (odpory ⇒ 0207) → za lomítkem 10
 
-    ![Desktop](Untitled2.png)
+    ![Desktop](Untitled2.png){: width=50% height=50% .w-75 .normal}
 
 1. Když nemůžu najít součástku, za název dám *****
 2. Některé IO nemají NAPÁJENÍ→ PAK → INVOKE → PWR→ Objeví se piny pro napájení
@@ -35,13 +35,13 @@ img_path: /img/eagle/
 5. PIN - klasický hřebenový PIN
 6. Propojovat vždy pomocí **NET**
     
-    ![Desktop](Untitled3.png)
+    ![Desktop](Untitled3.png){: width=50% height=50% .w-75 .normal}
     
 7. Nezapomínat na GND
 8. Polygon → lepší plošňák → méně frézování
 9. Po zhotovení schématu dám generate/switch to board (zelená nahoře) 
     
-    ![Desktop](Untitled4.png)
+    ![Desktop](Untitled4.png){:.w-50 .right}
     
 10. Zase vypnout políčko jako v bodě **[1.]**
 11. Grid → mm → default
@@ -51,7 +51,7 @@ img_path: /img/eagle/
 15. Žluté čáry odpovádají propojům
 16. Ratsnest - je dobré na to kliknout po umístění součástek do boardu 
     
-    ![Desktop](Untitled5.png)
+    ![Desktop](Untitled5.png){:.w-50 .right}
     
 17. Jak nastavit polygon
 18. Route Airwire a propojím natvrdo kontakty
