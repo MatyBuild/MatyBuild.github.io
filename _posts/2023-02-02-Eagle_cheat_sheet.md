@@ -22,7 +22,7 @@ img_path: /img/eagle/
     
 3. Odpory, kondenzátory a cívky hledat v **rcl →** používat evropské značky (odpory ⇒ 0207) → za lomítkem 10
 
-![Desktop](Untitled2.png)
+    ![Desktop](Untitled2.png)
 
 1. Když nemůžu najít součástku, za název dám *****
 2. Některé IO nemají NAPÁJENÍ→ PAK → INVOKE → PWR→ Objeví se piny pro napájení
