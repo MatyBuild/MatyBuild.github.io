@@ -7,7 +7,7 @@ tags: [životní rady]
 toc: true
 img_path: /img/images/
 ---
-![Desktop View](konecstarnuti.jpg){: .shadow width=80% height=80% .rounded-8}
+![Desktop View](konecstarnuti.jpg){: .shadow width=100% height=100% .rounded-10}
 # 🚀 Kniha ve dvou větách
 
 Kniha poukazuje na to, jak se můžeme dožít vysokého věku a zároveň nemuseli trpět. Jak můžeme zkvalitnit náš způsob života změnou některých každodenních činů.
