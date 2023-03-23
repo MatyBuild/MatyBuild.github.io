@@ -5,8 +5,9 @@ date: 2023-03-23 12:00
 categories: [Knihy, Zdraví]
 tags: [životní rady]
 toc: true
+img_path: /img/images/
 ---
-
+![Desktop View](konecstarnuti.jpg){:.w-75 .normal }
 # 🚀 Kniha ve dvou větách
 
 Kniha poukazuje na to, jak se můžeme dožít vysokého věku a zároveň nemuseli trpět. Jak můžeme zkvalitnit náš způsob života změnou některých každodenních činů.
