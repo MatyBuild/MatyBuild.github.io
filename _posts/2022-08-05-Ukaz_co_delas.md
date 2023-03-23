@@ -7,7 +7,7 @@ tags: [business, kreativita, životní rady]
 toc: true
 img_path: /img/ukaz_co_delas/
 ---
-![Desktop View](obalka.jpg){: .shadow width='500px' height='500px' .rounded-10}
+![Desktop View](obalka.jpg){: .shadow width='250x' height='250px' .rounded-10}
 # 🚀 Kniha ve třech větách
 
 Autor rozepisuje, jak může být důležité své znalosti a dovednosti sdílet. Pojednává o tom, jak a za jakým účelem můžeme takové dovednosti sdílet, aby to ostatním a především našemu budoucímu já pomohlo. Ukazuje, jak primitivní naše kroky můžou být a kolik ovoce v budoucnu přinesou.
