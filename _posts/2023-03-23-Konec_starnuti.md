@@ -45,14 +45,12 @@ Ti, kdo by se rádi naučili něco o fungování vlastního těla, co nemají v 
 Na začátku bych rád sdělil, že v knize je mnohem více informací, než co je zde napsané. Je v ní plno zajímavostí vč. toho, jak se řešily choroby v minulosti a jak nejspíš může vypadat budoucnost. Vše je napsáno či přepsáno tak, jak jsem knihu a daná témata pochopil.
 
 Dávám sem tři poznámky (upozornění), které autor zmiňuje při tom, co praktikuje v životě on sám (to najdete na konci článku).
-
+Tímto článkem vás nenabádám k užívání látek.
 >
 - Neznamená to, že byste stejné věci museli či měli dělat i vy.
 - Zatím nedovedu posoudit, jestli jsou moje návyky skutečně tou správnou cestou pro mě samotného.
 - Studie na lidech sice probíhají, ale žádné léky ani postupy dosud neprošly přísným dlouhodobým testováním, které je nutné k lepšímu porozumění celé škále možných důsledků.
 {: .prompt-warning}
-
-Tímto článkem vás nenabádám k užívání látek.
 
 # 📒 Shrnutí
 
