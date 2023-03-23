@@ -31,7 +31,6 @@ Měl by si ji přečíst každý, kdo minimálně trochu touží po zlepšení k
 >Jak můj život / chování / myšlení / napady se změnili výsledkem knihy?
 {: .prompt-tip }
 
-
 - Začal jsem si více psát co dělám
 - Rozjel jsem vlastní blog
 - Uvědomil jsem si, jak je důležitý udržovat věci jednoduché
