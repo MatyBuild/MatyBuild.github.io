@@ -85,9 +85,7 @@ df:
 
 # categories page
 categories:
-  category_measure:
-    singular: kategorie
-    plural: kategorie
+  category_measure: kategorie
   post_measure:
     singular: příspěvěk
     plural: příspěvky
