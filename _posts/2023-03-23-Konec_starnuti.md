@@ -46,13 +46,11 @@ Na začátku bych rád sdělil, že v knize je mnohem více informací, než co 
 
 Dávám sem tři poznámky (upozornění), které autor zmiňuje při tom, co praktikuje v životě on sám (to najdete na konci článku).
 
-“
-
+>
 - Neznamená to, že byste stejné věci museli či měli dělat i vy.
 - Zatím nedovedu posoudit, jestli jsou moje návyky skutečně tou správnou cestou pro mě samotného.
 - Studie na lidech sice probíhají, ale žádné léky ani postupy dosud neprošly přísným dlouhodobým testováním, které je nutné k lepšímu porozumění celé škále možných důsledků.
-
-“
+{: .prompt-warning}
 
 Tímto článkem vás nenabádám k užívání látek.
 
