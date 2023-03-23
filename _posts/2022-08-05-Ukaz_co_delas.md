@@ -2,7 +2,7 @@
 title: Ukaž co děláš
 autor: Matyáš Vaňhát
 date: 2022-08-05 12:00
-categories: [Knihy]
+categories: [Knihy, Seberozvoj]
 tags: [business, kreativita, životní rady]
 toc: true
 img_path: /img/ukaz_co_delas/

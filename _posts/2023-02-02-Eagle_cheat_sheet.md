@@ -2,8 +2,8 @@
 title: Eagle cheat sheet
 autor: Matyáš Vaňhát
 date: 2023-02-02 10:00
-categories: [Elektrina]
-tags: [elektřina, eagle, tipy]
+categories: [Elektřina]
+tags: [elektro, tipy]
 toc: true
 img_path: /img/eagle/
 ---

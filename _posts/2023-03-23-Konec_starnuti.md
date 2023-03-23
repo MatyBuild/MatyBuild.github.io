@@ -2,7 +2,7 @@
 title: Konec stárnutí
 author: David Sinclair
 date: 2023-03-23 12:00
-categories: [Knihy, Zdravi]
+categories: [Knihy, zdraví]
 tags: [životní rady]
 toc: true
 ---
