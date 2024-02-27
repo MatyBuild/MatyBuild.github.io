@@ -140,4 +140,4 @@ David Sinclair píše: “Pokud se sami nenecháváte očkovat nebo neočkujete 
 - Jak přes den, tak i během noci se zdržuje spíše v chladnějším prostředí.
 - Svou tělesnou váhu udržuje ve zdravém rozmezí.
 
-Často se ho lidé ptají, jaké výživové doplňky mají používat. Žádné doplňky stravy nedoporučuje. Pokud uvidíte nějaké doporučení pod jeho jméne, je to nejspíš podvod. Upřednostňuje čisté látky (98% a více) a vyhledává látky s označením “GMP”, což znamená “dobrou výrobní praxi”. Radši užívá NMN a NR než niacin a nikotinamid, ty zřejmě nezvyšují hladinu NAD tolik, jak NMN a NR.
+Často se ho lidé ptají, jaké výživové doplňky mají používat. Žádné doplňky stravy nechce a nebude nedoporučovat. Pokud uvidíte nějaké doporučení pod jeho jméne, je to nejspíš podvod. Upřednostňuje čisté látky (98% a více) a vyhledává látky s označením “GMP”, což znamená “dobrou výrobní praxi”. Radši užívá NMN a NR než niacin a nikotinamid, ty zřejmě nezvyšují hladinu NAD tolik, jak NMN a NR.
